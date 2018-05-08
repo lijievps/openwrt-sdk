@@ -1,0 +1,8 @@
+Package: helloworld
+Version: 1
+Depends: libc
+Source: package/helloworld
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 1218
+Description:  Helloworld
